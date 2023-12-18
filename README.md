@@ -1,4 +1,4 @@
-![Screenshot 2023-12-18 212423](https://github.com/TANMAY980/Youtube-Text-Data-Analysis/assets/65010491/c97af152-f71e-46e0-84d6-5ddd2b3b6f09)# Youtube-Text-Data-Analysis
+# Youtube-Text-Data-Analysis
 # how to read csv data or how to load csv file
 ''' (ETL)first extract the data after  reading  the data  we get raw data and send to the data transformation phase so 
 at the end we will get featurized data and we can send this data for data analysis purpose
